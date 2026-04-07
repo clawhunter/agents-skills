@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "slug": "meme-analyzer",
+      "name": "Meme Token Analyzer",
+      "description": "Structured analysis and scoring of meme tokens on Solana with rug pull detection",
+      "author": "clawpump",
+      "tags": ["meme", "analysis", "risk"],
+      "path": "skills/meme-analyzer"
+    },
+    {
+      "slug": "whale-tracker",
+      "name": "Whale Tracker",
+      "description": "Monitor and interpret large wallet movements on Solana",
+      "author": "clawpump",
+      "tags": ["analysis", "trading", "defi"],
+      "path": "skills/whale-tracker"
+    },
+    {
+      "slug": "dca-strategy",
+      "name": "DCA Strategy",
+      "description": "Plan and manage Dollar-Cost Averaging strategies for Solana tokens",
+      "author": "clawpump",
+      "tags": ["trading", "defi", "portfolio"],
+      "path": "skills/dca-strategy"
+    },
+    {
+      "slug": "risk-manager",
+      "name": "Risk Manager",
+      "description": "Pre-trade risk assessment with position sizing, concentration, and drawdown checks",
+      "author": "clawpump",
+      "tags": ["risk", "trading", "portfolio"],
+      "path": "skills/risk-manager"
+    },
+    {
+      "slug": "alpha-scanner",
+      "name": "Alpha Scanner",
+      "description": "Scan for early trading opportunities from new launches, volume spikes, and smart money",
+      "author": "clawpump",
+      "tags": ["trading", "analysis", "defi"],
+      "path": "skills/alpha-scanner"
+    }
+  ]
+}
