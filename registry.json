@@ -40,6 +40,14 @@
       "author": "clawpump",
       "tags": ["trading", "analysis", "defi"],
       "path": "skills/alpha-scanner"
+    },
+    {
+      "slug": "survivor-check",
+      "name": "Survivor Check",
+      "description": "Survival-first token check by SOAG: is it a survivor (age + live LP + two-sided volume) or a trap? Tiers bronze/silver/gold/diamond.",
+      "author": "yksanjo",
+      "tags": ["risk", "analysis", "defi"],
+      "path": "skills/survivor-check"
     }
   ]
 }
