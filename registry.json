@@ -40,6 +40,14 @@
       "author": "clawpump",
       "tags": ["trading", "analysis", "defi"],
       "path": "skills/alpha-scanner"
+    },
+    {
+      "slug": "straight-talk",
+      "name": "Straight Talk",
+      "description": "Turn an agent's action or holdings into an honest, no-shill social post: states the read, admits losses, flags traps, never promises price",
+      "author": "yksanjo",
+      "tags": ["social", "utility", "risk"],
+      "path": "skills/straight-talk"
     }
   ]
 }
