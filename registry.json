@@ -40,6 +40,14 @@
       "author": "clawpump",
       "tags": ["trading", "analysis", "defi"],
       "path": "skills/alpha-scanner"
+    },
+    {
+      "slug": "laso-finance",
+      "name": "Laso Finance Wallet Cards",
+      "description": "Order and manage Laso prepaid cards, gift cards, and push-to-card payouts with a ClawPump agent wallet",
+      "author": "clawpump",
+      "tags": ["laso", "x402", "wallet", "cards", "payments"],
+      "path": "skills/laso-finance"
     }
   ]
 }
