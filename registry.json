@@ -48,6 +48,14 @@
       "author": "clawpump",
       "tags": ["laso", "x402", "wallet", "cards", "payments"],
       "path": "skills/laso-finance"
+    },
+    {
+      "slug": "clawhunter-content-studio",
+      "name": "Clawhunter Content Studio",
+      "description": "Model a voice tone from any X account and write in it, generate logo-grounded images, produce Veo/Kling video direction, and draft tweets/threads. Standalone or grounded in a Pump Fun bounty.",
+      "author": "clawhunter",
+      "tags": ["content", "voice", "image", "video", "x402"],
+      "path": "skills/clawhunter-content-studio"
     }
   ]
 }
