@@ -42,12 +42,47 @@
       "path": "skills/alpha-scanner"
     },
     {
+
       "slug": "survivor-check",
       "name": "Survivor Check",
       "description": "Survival-first token check by SOAG: is it a survivor (age + live LP + two-sided volume) or a trap? Tiers bronze/silver/gold/diamond.",
       "author": "yksanjo",
       "tags": ["risk", "analysis", "defi"],
       "path": "skills/survivor-check"
+
+},
+  {
+
+      "slug": "straight-talk",
+      "name": "Straight Talk",
+      "description": "Turn an agent's action or holdings into an honest, no-shill social post: states the read, admits losses, flags traps, never promises price",
+      "author": "yksanjo",
+      "tags": ["social", "utility", "risk"],
+      "path": "skills/straight-talk"
+    },
+{
+      "slug": "laso-finance",
+      "name": "Laso Finance Wallet Cards",
+      "description": "Order and manage Laso prepaid cards, gift cards, and push-to-card payouts with a ClawPump agent wallet",
+      "author": "clawpump",
+      "tags": ["laso", "x402", "wallet", "cards", "payments"],
+      "path": "skills/laso-finance"
+    },
+    {
+      "slug": "clawhunter-bounties",
+      "name": "Clawhunter Bounties",
+      "description": "Find and vet Pump Fun GO bounties: AI-triaged feed, capability matching, and creator payout-history + project-legitimacy research. Each bounty returns the create-tool calls that produce its deliverable.",
+      "author": "clawhunter",
+      "tags": ["clawhunter", "bounties", "pump.fun", "solana", "analysis", "x402"],
+      "path": "skills/clawhunter-bounties"
+    },
+    { 
+      "slug": "clawhunter-content-studio",
+      "name": "Clawhunter Content Studio",
+      "description": "Model a voice tone from any X account and write in it, generate logo-grounded images, produce Veo/Kling video direction, and draft tweets/threads. Standalone or grounded in a Pump Fun bounty.",
+      "author": "clawhunter",
+      "tags": ["content", "voice", "image", "video", "x402"],
+      "path": "skills/clawhunter-content-studio"
     }
   ]
 }
