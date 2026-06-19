@@ -43,6 +43,16 @@
     },
     {
 
+      "slug": "survivor-check",
+      "name": "Survivor Check",
+      "description": "Survival-first token check by SOAG: is it a survivor (age + live LP + two-sided volume) or a trap? Tiers bronze/silver/gold/diamond.",
+      "author": "yksanjo",
+      "tags": ["risk", "analysis", "defi"],
+      "path": "skills/survivor-check"
+
+},
+  {
+
       "slug": "straight-talk",
       "name": "Straight Talk",
       "description": "Turn an agent's action or holdings into an honest, no-shill social post: states the read, admits losses, flags traps, never promises price",
@@ -73,7 +83,6 @@
       "author": "clawhunter",
       "tags": ["content", "voice", "image", "video", "x402"],
       "path": "skills/clawhunter-content-studio"
-
     }
   ]
 }
